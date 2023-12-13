@@ -49,3 +49,6 @@ a:hover{
     color:red;
     font-weight: bold;
 }
+img{
+  clip-path: circle(50% at 50% 50%);
+}
